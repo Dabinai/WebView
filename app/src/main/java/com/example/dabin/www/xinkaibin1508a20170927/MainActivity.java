@@ -40,7 +40,6 @@ public class MainActivity extends AppCompatActivity {
                             System.out.println("url:"+url);
                         }
                         return true;
-
                     }
                 });
 
